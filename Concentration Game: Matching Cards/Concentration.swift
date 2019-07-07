@@ -12,8 +12,8 @@ class Concentration
 {
 //    API - Application Programming Interface
 //    * a list of all methods and instance variables in that class
-//    * public API are all of the methods that you are going to allow other classes to call
-//    we're going to design our public API
+//    * public API are all of the methods that you are going to allow other classes to call we're going to design our public API **
+    
     var cards = [Card]() // open parentheses correpsonds to array initialzer -> it creates an empty array
     
     var indexOfOneAndOnlyFaceUpCard: Int?
